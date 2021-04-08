@@ -1,0 +1,3 @@
+ofl-1.1
+
+SIL Open Font License 1.1
