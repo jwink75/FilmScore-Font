@@ -7,8 +7,8 @@ Copyright: Copyright (c) 2021, Jacob Winkler
 UComments: "2021-4-6: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
-UnderlinePosition: -133.301
-UnderlineWidth: 48.8281
+UnderlinePosition: -133
+UnderlineWidth: 48
 Ascent: 800
 Descent: 200
 InvalidEm: 0
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1617742370
-ModificationTime: 1730585621
+ModificationTime: 1738968440
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -32,7 +32,7 @@ OS2TypoAOffset: 0
 OS2TypoDescent: -200
 OS2TypoDOffset: 0
 OS2TypoLinegap: 150
-OS2WinAscent: 1699
+OS2WinAscent: 891
 OS2WinAOffset: 0
 OS2WinDescent: 216
 OS2WinDOffset: 0
@@ -233,9 +233,9 @@ EndChar
 StartChar: Q
 Encoding: 81 81 5
 Width: 693
-Flags: HWO
+Flags: W
 HStem: 0 131<356.478 463.569 575.432 682.523> 131 90<495.608 544.297> 221 130<356.48 463.662 575.341 651.283>
-VStem: 349 125<14.3405 68 241.708 340.751> 493 54<155.805 197.134> 568 125<14.3383 109.716 245.307 340.842> 652 41<352 1407>
+VStem: 349 125<14.3405 68 241.708 340.751> 493 54<155.805 197.134> 568 125<14.3383 109.716 245.307 340.842> 652 41<352 1411>
 LayerCount: 2
 Fore
 SplineSet
@@ -281,6 +281,7 @@ SplineSet
  594 216 547 195 547 176 c 0
  547 166 597 138 613 131 c 1xbc
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: E
