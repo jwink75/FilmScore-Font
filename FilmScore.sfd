@@ -19,20 +19,20 @@ XUID: [1021 512 563788097 30622]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 0
+OS2_UseTypoMetrics: 1
 CreationTime: 1617742370
-ModificationTime: 1738968440
+ModificationTime: 1738977740
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
-LineGap: 42
+LineGap: 150
 VLineGap: 0
-OS2TypoAscent: 693
+OS2TypoAscent: 891
 OS2TypoAOffset: 0
 OS2TypoDescent: -200
 OS2TypoDOffset: 0
 OS2TypoLinegap: 150
-OS2WinAscent: 891
+OS2WinAscent: 1460
 OS2WinAOffset: 0
 OS2WinDescent: 216
 OS2WinDOffset: 0
@@ -325,8 +325,8 @@ SplineSet
  782 311 782 338 789 341 c 0
  796 348 820 351 844 351 c 0
  852 351 859 352 865 352 c 1
- 864 1236 l 5
- -2 1236 l 5
+ 864 1236 l 1
+ -2 1236 l 1
  -2 1412 l 1
  907 1412 l 1x3d
  907 293 l 2
